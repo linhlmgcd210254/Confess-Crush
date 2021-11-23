@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Em Không',
     question: 'Em có lời nào muốn nói với anh không?',
     btnReply: 'Gửi cho anh',
-    reply: 'Anh biết là em không thể ghi được vì anh lập trìnhh chỉ tới đây mà thôi. hãy nhắn mess cho anh nha <3...............',
+    reply: 'Anh biết là em không thể ghi được vì anh chỉ  lập trìnhh chỉ tới đây mà thôi. hãy nhắn mess cho anh nha <3...............',
     mess: 'Anh Yêu Em Lắm <3',
     messDesc: 'Xog cái này em nhắ mess cho anh nha.Yêu Em <3',
     btnAccept: 'Dạ Anh',
