@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Anh muốn nói với em vài điều",
     introTitle: 'Anh muốn xin lỗi em!!!',
-    introDesc: `2 ngày này 2 mình im lặng quá, anh không muốn điều này tiếp tục, trong 2 ngày này anh nhận ra anh sai rồi, anh sai anh còn cố chấp, anh xin lỗi em anh nên nói nhưng lời làm tổn thường em như vậy. anh xin lỗi`,
+    introDesc: `2 ngày này 2 mình im lặng quá, anh không muốn điều này tiếp tục, trong 2 ngày này anh nhận ra anh sai rồi, anh sai anh còn cố chấp, anh xin lỗi em anh  nên nói nhưng lời làm tổn thường em như vậy. anh xin lỗi`,
     btnIntro: 'Tiếp Tục',
     title: 'Anh Xin Lỗi Em',
     desc: 'Em Bỏ Qua Cho Anh Nha, Anh Không Thể Tiếp Tục Im lặng Được! ',
