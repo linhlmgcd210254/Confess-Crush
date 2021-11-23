@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    titleWeb: "Anh muốn nói với em vài điều",
+    introTitle: 'Anh muốn xin lỗi em!!!',
+    introDesc: `2 ngày này 2 mình im lặng quá, anh không muốn điều này tiếp tục, trong 2 ngày này anh nhận ra anh sai rồi, anh sai anh còn cố chấp, anh xin lỗi em anh nên nói nhưng lời làm tổn thường em như vậy. anh xin lỗi`,
+    btnIntro: 'Tiếp Tục',
+    title: 'Anh Xin Lỗi Em',
+    desc: 'Em Bỏ Qua Cho Anh Nha, Anh Không Thể Tiếp Tục Im lặng Được! ',
+    btnYes: 'Em Đồng Ý',
+    btnNo: 'Em Không',
+    question: 'Em có lời nào muốn nói với anh không?',
+    btnReply: 'Gửi cho anh',
+    reply: 'Anh biết là em không thể ghi được vì anh lập trìnhh chỉ tới đây mà thôi. hãy nhắn mess cho anh nha <3...............',
+    mess: 'Anh Yêu Em Lắm <3',
+    messDesc: 'Xog cái này em nhắn mess cho anh nha.Yêu Em <3',
+    btnAccept: 'Dạ Anh',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
